@@ -1,6 +1,4 @@
                      TERMINAL QUIZ-GAME
-
-is a beginner-friendly but full-featured command-line project designed to strengthen your Bash programming and general scripting abilities.
 You will build a quiz app capable of:
 -Reading questions from a file
 
