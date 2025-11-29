@@ -1,0 +1,11 @@
+which planet is knowWn as the Red Planet?|Venus|Mars|Jupiter|Saturn|B
+What is the capital of France?|London|Paris|Rome|Berlin|B
+How many days are in a week?|5|6|7|8|C
+Water freezes at what temperature °C?|0|10|50|100|A
+Which animal is known as the King of the Jungle?|Tiger|Elephant|Lion|Giraffe|C
+Which ocean is the largest?|Atlantic|Indian|Pacific|Arctic|C
+What gas do plants breathe in?|Oxygen|Nitrogen|Carbon Dioxide|Helium|C
+Which shape has 3 sides?|Circle|Triangle|Square|Rectangle|B
+How many legs does a spider have?|4|6|8|12|C
+Which fruit is yellow and curved?|Apple|Banana|Orange|Grape|B
+How many regions are in Cameroon?|7|5|10|4|C
